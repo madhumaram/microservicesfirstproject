@@ -38,4 +38,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with: 
         name: microservicefirstproject
-        path: ${{ github.sha }}.jar
+        path: ithub-microservice-service-0.0.1-SNAPSHOT.jar

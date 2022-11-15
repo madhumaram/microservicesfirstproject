@@ -38,4 +38,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with: 
         name: microservicefirstproject
-        path: ithub-microservice-service-0.0.1-SNAPSHOT.jar
+        path: /home/runner/work/microservicesfirstproject/microservicesfirstproject/target/ithub-microservice-service-0.0.1-SNAPSHOT.jar

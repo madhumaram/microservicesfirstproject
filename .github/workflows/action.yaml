@@ -39,3 +39,4 @@ jobs:
       with: 
         name: microservicefirstproject
         path: /home/runner/work/microservicesfirstproject/microservicesfirstproject/target/ithub-microservice-service-0.0.1-SNAPSHOT.jar
+        retention-days: 1
